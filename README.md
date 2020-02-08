@@ -1,2 +1,2 @@
-# supreeth101.github.io
+# sampada-s.github.io
 Portfolio website
